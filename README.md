@@ -1,0 +1,2 @@
+# STM32F401CC
+ARMv7 Cortex-M4
