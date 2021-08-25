@@ -2,7 +2,7 @@
 /* Author      : Sugumaran A                                   */
 /* File Name   : main.c                                        */
 /* Description : LED Blink on STM32 main .c file               */
-/* Date        : 15-08-2021   						           */
+/* Date        : 15-08-2021   				       */
 /***************************************************************/
 
 
